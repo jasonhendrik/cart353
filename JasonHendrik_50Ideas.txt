@@ -15,7 +15,7 @@ Jason Hendrik
 11. Building three dimensional paint brush tool
 12. Explorative tool about the 6 (six) basic machines
 13. A plant growing program with graphic plants and flowers
-14. A visual and audio program whose intention is to irritate and annoyed with reference to anti loitering techniques
+14. A visual and audio program whose intention is to irritate and annoy with reference to anti loitering techniques
 15. Alive video effect that lets you oil paint with the pixels
 16. Build and develop a robot Vision Library
 17. Make game based on Old Maze Game using gravity and spheres

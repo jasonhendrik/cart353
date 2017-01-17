@@ -13,7 +13,7 @@ Jason Hendrik
 9. A magic mirror with internet based AI
 10. Build (or add to) a library for basic 3D
 11. Building three dimensional paint brush tool
-12. Explorative tool about the 5 basic machines
+12. Explorative tool about the 6 (six) basic machines
 13. A plant growing program with graphic plants and flowers
 14. A visual and audio program whose intention is to irritate and annoyed with reference to anti loitering techniques
 15. Alive video effect that lets you oil paint with the pixels

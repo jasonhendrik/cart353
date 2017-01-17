@@ -1,0 +1,54 @@
+Jason Hendrik 
+50 ideas. (For Processing Projects)
+
+
+1. Drone music generator based on keyword web-based search
+2. Video texture material to particles creation tool
+3. Video to vector art image processor
+4. 1 pixel per user per day collaborative Network art creation
+5. Sunset and skyline image generator based on hard drive contents and file sizes
+6. 3D Tree creation tool based on portrait face images Forest accumulation.
+7. Crowd based collaboration mosaic making
+8. A virtual neural network sandbox
+9. A magic mirror with internet based AI
+10. Build (or add to) a library for basic 3D
+11. Building three dimensional paint brush tool
+12. Explorative tool about the 5 basic machines
+13. A plant growing program with graphic plants and flowers
+14. A visual and audio program whose intention is to irritate and annoyed with reference to anti loitering techniques
+15. Alive video effect that lets you oil paint with the pixels
+16. Build and develop a robot Vision Library
+17. Make game based on Old Maze Game using gravity and spheres
+18. Make a video FX library or tool set for dancers
+19. Create a game using five basic logic elements that when put together can create complex shapes or visuals
+20. Create an idea generator (word smasher) with some form of complexity
+21. Monsters eating food. you are what you eat game
+22. A biosphere making simulation game as an homage to Buckminster Fuller
+23. Particle based visualization mapping birth and death rates per country per year
+24. Creating mold and fungus like image deterioration and erosion effects and process.
+25. Make a video synthesizer *with GUI
+26. Extreme sports Kayak and waterfall game
+27. And educational game explaining secondary, tertiary and complementary colors
+28. Matching game for sound and graphics
+29. Eye-light therapy for VR headgear
+30. Ambient and relaxational colors, visuals.. (phys. lights)  controlled by smooth music. For therapy
+31. Interactive text for projection controlled by either your phone or your body movement
+32. Making a collective flower garden online and sharing a flower making tool
+33. Create a digital priest and confessional box
+34. An audio-visual experience that changes based on the time of day month and year
+35. A digital heliostat for the prediction of server rotations for future sculpture
+36. Live video process to convert Edge detection 2 single cell strobe pixels for water stasis project.
+37. A simple graphics game whose intention is to show the futility of compounding internet “social” activity and time spent away from our immediate relationships.
+38. Make a “photobooth” that makes mix-n-match characters from body parts
+39. Create an art-history puzzle game using online data and content
+40. Glitch Art and Noise experience that varies depending on your, IP and time of day.
+41. Mindscape. Travel using your brain (using head sensor) through a GL world. VR?
+42. Dispersed collectivity. A state machine, that lives online, shows you where it was last “changed” from... and can be manipulated by anyone in the world…. 
+43. An individual instrument based color selection algorithm for bands and musicians playing together controlling colored lights or screens.
+44. Interactive projection visuals for orchestra conductors
+45. Make an oddly specific Magic 8-Ball with user-generated content
+46. Create a heads-up display interactive Graphics library for pre-existing robotics Library.
+47. Glitch art experience that only changes with sound input. Using spectral data to make visuals.
+48. “We are One” networked FPS. multiple users need to act together to play the game. Thinking as one.
+49. Dancing beans. Teach the beans to dance with your mouse!
+50. Program that returns the average color from image or video to RGB curves with subdivision up to 1:1 pixel ratio. where: 1:1920x1080 = 1 RGB curves & 1:1 = 2073600 RGB curves

@@ -1,15 +1,18 @@
 // A simple Particle class
 
-class Cloud {
+class Rain {
   PVector position;
   PVector velocity;
   PVector acceleration;
   float lifespan;
 
-  Cloud() {
-    velocity = new PVector(0, 0);
-    position = new PVector(-random(width),random(0,height/5),0);
-    lifespan = 64.0;
+  
+  Rain(PVector l) {
+    acceleration = new PVector(0, .125);
+    velocity = new PVector(0, 5);
+    position = l.copy();
+    lifespan = 100.0;
+ 
   }
 
   void run() {
@@ -19,20 +22,20 @@ class Cloud {
 
   // Method to update position
   void update() {
-    
-    acceleration = new PVector(random(.0005,.15), random(-.024,.024),random(-.02,.02));
-
-
     velocity.add(acceleration);
     position.add(velocity);
-    lifespan -= .125;
+    lifespan -= .25;
   }
 
   // Method to display
   void display() {
+    
+
     stroke(255, lifespan);
-    fill(255, lifespan);
-    ellipse(position.x, position.y, lifespan*1.65, lifespan*1.65);
+    fill(0,0,255, lifespan*3);
+    ellipse(position.x, position.y, random(3), random(8));
+    
+    
   }
 
   // Is the particle still useful?
